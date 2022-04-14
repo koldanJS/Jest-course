@@ -1,0 +1,24 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "Jest intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "jest",
+    "unit",
+    "testing"
+  ],
+  "author": "koldanJS <koldan.js@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
